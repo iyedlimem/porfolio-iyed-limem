@@ -1,13 +1,13 @@
-import Work1 from "../../assets/Homenum.png";
-import Work2 from "../../assets/cygna.png";
-import Work3 from "../../assets/capRh.png";
-import Work4 from "../../assets/WoodSpace.png";
+import Homenum from "../../assets/Homenum.png";
+import cygna from "../../assets/cygna.png";
+import capRh from "../../assets/capRh.png";
+import WoodSpace from "../../assets/WoodSpace.png";
 
 
 export const Data = [
     {
         id: 1,
-        image: Work1,
+        image: Homenum,
         title: "Homenum",
         category: "web",
         link: "https://fanciful-elf-0bc3e3.netlify.app/",
@@ -15,7 +15,7 @@ export const Data = [
     },
     {
         id: 2,
-        image: Work2,
+        image: cygna,
         title: "Cygna",
         category: "web",
         link: "https://cygna.fr/",
@@ -23,7 +23,7 @@ export const Data = [
     },
     {
         id: 3,
-        image: Work3,
+        image: capRh,
         title: "CAP RH",
         category: "weeb",
         link: "https://devscaleandgo.com/",
@@ -31,7 +31,7 @@ export const Data = [
     },
     {
         id: 4,
-        image: Work4,
+        image: WoodSpace,
         title: "WoodSpace",
         category: "design",
         link: "https://woodspace.tn/",
