@@ -1,6 +1,6 @@
 import Homenum from "../../assets/Homenum.png";
 import cygna from "../../assets/cygna.png";
-import capRh from "../../assets/capRh.png";
+import CapRh from "../../assets/CapRh.png";
 import WoodSpace from "../../assets/WoodSpace.png";
 
 
@@ -23,7 +23,7 @@ export const Data = [
     },
     {
         id: 3,
-        image: capRh,
+        image: CapRh,
         title: "CAP RH",
         category: "weeb",
         link: "https://devscaleandgo.com/",
